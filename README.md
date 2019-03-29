@@ -11,4 +11,7 @@ This is homework of my course.These things are recording my learning process.I w
 - Statcomp L3
      - Exercises of dplyr
      - The summary of different data class in R
-     
+- Statcomp L4
+     - Use while to judge leapyeaar
+     - Compare the time of circulation and no circulation
+     - Copy %*% , solve , det
